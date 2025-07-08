@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'tweet',
+    #dito linalagay yung downloaded apps mo para marecognize nya
 
 ]
 
