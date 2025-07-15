@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e184957d-db1d-44a0-b8ab-f3b6922f348a" name="Changes" comment="meet 5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e184957d-db1d-44a0-b8ab-f3b6922f348a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,16 +46,12 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2zRmAAXhFN48OfLzdnFMhIS51QB" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "Django Server.CPE 202.executor": "Run",
     "Django Server.CPE 20202020.executor": "Run",
@@ -86,9 +80,6 @@
       <recent name="D:\DjangoProject1\StaticMyProject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\AI Lab 01\PycharmProjects\Employee-System\templates\tweets" />
-      <recent name="C:\Users\AI Lab 01\PycharmProjects\Employee-System\templates\tweets\tweets" />
-      <recent name="C:\Users\AI Lab 01\PycharmProjects\Employee-System\tweet" />
       <recent name="D:\DjangoProject1\DjangoProject1" />
     </key>
   </component>
@@ -98,9 +89,6 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="Python 3.12 (pythonProject)" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -137,35 +125,8 @@
       <workItem from="1751702114780" duration="9371000" />
       <workItem from="1751888204299" duration="4265000" />
       <workItem from="1751945881605" duration="2625000" />
-      <workItem from="1751970819424" duration="6600000" />
-      <workItem from="1752228098872" duration="2558000" />
-      <workItem from="1752576435144" duration="6126000" />
+      <workItem from="1751970819424" duration="6179000" />
     </task>
-    <task id="LOCAL-00001" summary="meet 5">
-      <option name="closed" value="true" />
-      <created>1752582441638</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1752582441638</updated>
-    </task>
-    <task id="LOCAL-00002" summary="meet 5">
-      <option name="closed" value="true" />
-      <created>1752582480221</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1752582480221</updated>
-    </task>
-    <task id="LOCAL-00003" summary="meet 5">
-      <option name="closed" value="true" />
-      <created>1752582501645</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1752582501645</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,10 +142,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="meet 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="meet 5" />
   </component>
 </project>
