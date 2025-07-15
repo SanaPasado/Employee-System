@@ -2,7 +2,7 @@ from django.db import models
 from django.contrib.auth.models import User
 
 class Tweet(models.Model):
-    creator = models.ForeignKey(User, on_delete=models)
+    creator = models.ForeignKey(User, on_delete=models.CASCADE)
     #on_delete = deletes objects related to it
 
     context = models.IntegerField()
