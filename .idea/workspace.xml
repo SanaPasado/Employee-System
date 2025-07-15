@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e184957d-db1d-44a0-b8ab-f3b6922f348a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/tweets/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/tweets/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tweets/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tweets/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tweets/views.py" afterDir="false" />
+    <list default="true" id="e184957d-db1d-44a0-b8ab-f3b6922f348a" name="Changes" comment="meet 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweets/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweets/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweets/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweets/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweets/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweets/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,8 +139,33 @@
       <workItem from="1751945881605" duration="2625000" />
       <workItem from="1751970819424" duration="6600000" />
       <workItem from="1752228098872" duration="2558000" />
-      <workItem from="1752576435144" duration="5807000" />
+      <workItem from="1752576435144" duration="6126000" />
     </task>
+    <task id="LOCAL-00001" summary="meet 5">
+      <option name="closed" value="true" />
+      <created>1752582441638</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752582441638</updated>
+    </task>
+    <task id="LOCAL-00002" summary="meet 5">
+      <option name="closed" value="true" />
+      <created>1752582480221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752582480221</updated>
+    </task>
+    <task id="LOCAL-00003" summary="meet 5">
+      <option name="closed" value="true" />
+      <created>1752582501645</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752582501645</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,5 +184,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="meet 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="meet 5" />
   </component>
 </project>
