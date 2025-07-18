@@ -1,0 +1,47 @@
+{# applicants/templates/applicants/applicant_detail.html #}
+{% extends 'applicants/base.html' %} {# Extends the base layout #}
+
+{% block title %}Portfolio: {{ applicant.first_name }} {{ applicant.last_name }}{% endblock %}
+
+{% block content %}
+    <h1 class="mb-4">Portfolio for {{ applicant.first_name }} {{ applicant.last_name }}</h1>
+
+    <div class="card mb-4">
+        <div class="card-header bg-primary text-white">
+            Applicant Information
+        </div>
+        <div class="card-body">
+            <p><strong>Name:</strong> {{ applicant.first_name }} {{ applicant.last_name }}</p>
+            <p><strong>Email:</strong> {{ applicant.email }}</p>
+            <p><strong>Username:</strong> {{ applicant.username }}</p>
+        </div>
+    </div>
+
+    <div class="card mb-4">
+        <div class="card-header bg-success text-white">
+            Portfolio Details
+        </div>
+        <div class="card-body">
+            {% if portfolio %}
+                <p><strong>GitHub Profile:</strong>
+                    {% if portfolio.github_profile_url %}
+                        <a href="{{ portfolio.github_profile_url }}" target="_blank">{{ portfolio.github_profile_url }}</a>
+                    {% else %}
+                        N/A
+                    {% endif %}
+                </p>
+                <p><strong>Resume/CV Link:</strong>
+                    {% if portfolio.resume_link %}
+                        <a href="{{ portfolio.resume_link }}" target="_blank">{{ portfolio.resume_link }}</a>
+                    {% else %}
+                        N/A
+                    {% endif %}
+                </p>
+            {% else %}
+                <p class="text-muted">No portfolio details available for this applicant.</p>
+            {% endif %}
+        </div>
+    </div>
+
+    <a href="{% url 'applicants:applicant_list' %}" class="btn btn-secondary">Back to Applicant List</a>
+{% endblock %}
